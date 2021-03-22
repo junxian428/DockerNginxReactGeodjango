@@ -24,6 +24,8 @@ Step 3:
 
 pip freeze > requirements.txt
 
+_______________________________________________________________________________________________________________________________________________________________
+
 Step 4 Start Project:
 
 django-admin.py startproject schools_api .
@@ -35,3 +37,8 @@ no module named django.core
 Solution:
 
 (Geodjango-env) C:\Users\user\Desktop\forbes\GeoDjango\Geodjango-env>python C:\Users\user\Desktop\forbes\GeoDjango\Geodjango-env\Scripts\django-admin.py startproject schools_api .
+
+Step 5:
+
+python manage.py startapp schools 
+
