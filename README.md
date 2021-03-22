@@ -1,6 +1,6 @@
 # DockerNginxReactGeodjango
 
-First Create Virtual Environment
+Step 1: First Create Virtual Environment
 
 Windows:
 
@@ -11,6 +11,10 @@ tutorial-env\Scripts\activate.bat
 Unix or MacOS:
 
 source tutorial-env/bin/activate
+
+Step 2: 
+
+pip install django==3.1.5 djangorestframework==3.12.2 djangorestframework-gis==0.17 django-leaflet==0.27.1
 
 Reference:
 
