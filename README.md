@@ -23,3 +23,8 @@ https://youtu.be/zQx4IT70w4g
 Step 3:
 
 pip freeze > requirements.txt
+
+Step 4 Start Project:
+
+django-admin.py startproject schools_api .
+
