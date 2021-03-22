@@ -19,3 +19,7 @@ pip install django==3.1.5 djangorestframework==3.12.2 djangorestframework-gis==0
 Reference:
 
 https://youtu.be/zQx4IT70w4g
+
+Step 3:
+
+pip freeze > requirements.txt
